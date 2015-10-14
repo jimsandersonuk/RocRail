@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modocc>
+  <occ bkid="bk_main_fiddle" lcid="" auto="false" closed="false" placing="1" blockenterside="1" scid=""/>
+  <occ bkid="tt_turn" lcid="" auto="false" closed="false" placing="0"/>
+  <occ bkid="bk_tt" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_fiddle_1_release" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_turn_shed" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_port_shunt" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_reverse_Main" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_turn_1" lcid="" auto="false" closed="false" placing="0"/>
+  <occ bkid="bk_turn_2" lcid="" auto="false" closed="false" placing="0"/>
+  <occ bkid="bk_turn_3" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_main|fiddle_yard" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_mainline_reverse_loop" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_station_up" lcid="" auto="false" closed="false" placing="2" blockenterside="1" scid=""/>
+  <occ bkid="bk_reverse_loop" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_goods_shed" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_mainline_reverse" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_cassette" auto="false" closed="true" placing="0" blockenterside="2"/>
+  <occ bkid="bk_main_up" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_Main_reverse" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_station_siding_1" auto="false" closed="true" placing="0"/>
+  <occ bkid="bk_station_siding_2" auto="false" closed="true" placing="0"/>
+  <occ bkid="bk_station_siding_3" auto="false" closed="true" placing="0"/>
+  <occ bkid="bk_station_siding_4" auto="false" closed="true" placing="0" blockenterside="2"/>
+  <occ bkid="bk_siding_1" lcid="" auto="false" closed="false" placing="2" blockenterside="2" scid=""/>
+  <occ bkid="bk_siding_2" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_siding_3" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_siding_4" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_siding_5" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_siding_6" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_siding_7" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_siding_8" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_siding_9" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_port_side" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_plat_2_head" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_shed" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_fiddle_yard_head_1" auto="false" closed="false" placing="0" blockenterside="2" lcid=""/>
+  <occ bkid="bk_fiddle_yard_head_2" auto="false" closed="false" placing="0" blockenterside="2" lcid=""/>
+  <occ bkid="bk_fiddle_yard_head_3" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_main_goods" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_main_down" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_fiddle_head" lcid="" auto="false" closed="false" placing="2" blockenterside="2" scid=""/>
+  <occ bkid="bk_fiddle_1" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_fiddle_2" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_fiddle_3" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_fiddle_4" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_fiddle_5" auto="false" closed="false" placing="0" blockenterside="2" lcid=""/>
+  <occ bkid="bk_fiddle_6" auto="false" closed="false" placing="0" blockenterside="1" lcid=""/>
+  <occ bkid="bk_fiddle_entry" auto="false" closed="true" placing="0" blockenterside="1"/>
+  <occ bkid="bk_fiddle_pass" lcid="" auto="false" closed="false" placing="1" blockenterside="1" scid=""/>
+  <occ bkid="bk_shed_wait" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_port_2" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_port_3" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_plat_1" auto="false" closed="true" placing="0" blockenterside="1"/>
+  <occ bkid="bk_plat_2" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_plat_3" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_main_reverse" lcid="" auto="false" closed="false" placing="0" blockenterside="2"/>
+  <occ bkid="bk_main_fiddle_yard_thru" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+  <occ bkid="bk_turn_station" lcid="" auto="false" closed="false" placing="0" blockenterside="1"/>
+</modocc>
